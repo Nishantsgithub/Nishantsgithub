@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chess-AI using Reinforcement Learning](https://github.com/Nishantsgithub/Chess-AI-Development-Using-Reinforcement-Learning)
 
-- 🌱 I’m currently learning **Pytorch ,Keras and Data Engineering.**
+- 🌱 I’m currently learning **Pytorch ,Keras and Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nishantsgithub/Portfolio](https://github.com/Nishantsgithub/Portfolio)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nishantpanchal71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19qd0nAQsxkqoA_7d_KuLGvKGVxqy4ETX/view?usp=drive_link](https://drive.google.com/file/d/19qd0nAQsxkqoA_7d_KuLGvKGVxqy4ETX/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/19qd0nAQsxkqoA_7d_KuLGvKGVxqy4ETX/view?usp=drive_link](https://drive.google.com/file/d/19qd0nAQsxkqoA_7d_KuLGvKGVxqy4ETX/view?usp=drive_link)](https://drive.google.com/file/d/1rc0SzMz_SMig8FwBLAtb2mskpMgnhSAW/view?usp=drive_link)
 
 - ⚡ Fun fact **I got better at chess using Machine Learning!**
 
