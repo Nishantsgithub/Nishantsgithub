@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently working on **AI Engineering, LLM applications, and Retrieval-Augmented Generation (RAG)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nishantsgithub/Portfolio](https://github.com/Nishantsgithub/Portfolio)
-
 - 💬 Ask me about **Machine Learning, LLMs, RAG, and AI systems**
 
 - 📫 How to reach me **09nishantpanchal@gmail.com**
